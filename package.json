@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dpastoor/node-postgres-scratch#readme",
   "devDependencies": {
     "babel-cli": "^6.5.1"
+  },
+  "dependencies": {
+    "pg": "^4.4.6"
   }
 }
